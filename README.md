@@ -23,6 +23,9 @@ An elegant, modern, responsive e-commerce web application built with **React**, 
 
 **Paradise Nursery** is an online plant boutique designed to help homeowners and office dwellers create their own tranquil green sanctuaries. Users can browse distinct botanical categories, explore plant care requirements, filter and search through a rich catalog of 18+ unique plants, and manage their shopping cart dynamically with real-time price and quantity synchronization.
 
+- 🌐 **Live Demo**: [https://dirghayushibhurase.github.io/paradise-nursery/](https://dirghayushibhurase.github.io/paradise-nursery/)
+- 💻 **GitHub Repository**: [https://github.com/dirghayushibhurase/paradise-nursery](https://github.com/dirghayushibhurase/paradise-nursery)
+
 ---
 
 ## ✨ Key Features
